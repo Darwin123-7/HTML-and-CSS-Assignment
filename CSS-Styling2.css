@@ -1,0 +1,28 @@
+.sentence {
+    background-color: lightpink;
+    color: black;
+}
+
+#one {
+
+color: blue;
+ font-size: 36px;
+
+}
+
+.another {
+    font-size: 24px;
+    background-color: lightpink;
+
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    color: black;
+}
+
+.class {
+    background-color:  lightpink;
+    color: black;
+}
