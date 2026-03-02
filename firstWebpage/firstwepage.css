@@ -1,0 +1,15 @@
+#Title .computer{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#Title .paragraph {
+    font-size: 20px;
+    text-align: justify;
+    color: black;
+}
+
+#lists .hello{
+    color: green;
+}
