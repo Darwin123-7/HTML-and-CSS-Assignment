@@ -11,5 +11,17 @@
 }
 
 #lists .hello{
-    color: green;
+    color: black;   
+    font-size: 22px;
+ 
+}
+
+.Border, .Border2, .Border3, .Border4 {
+
+    border: 3px solid black;
+    border-radius: 10%;
+}
+
+.getPixelated {
+    font-size: 19px;
 }
