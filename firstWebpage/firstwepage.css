@@ -1,5 +1,5 @@
 #Title .computer{
-    color: green;
+    color: gray;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
@@ -12,7 +12,7 @@
 
 #lists .hello{
     color: black;   
-    font-size: 22px;
+    font-size: 21px;
  
 }
 
@@ -22,6 +22,11 @@
     border-radius: 10%;
 }
 
-.getPixelated {
+.getPixelated, .getPixelated2, .getPixelated3, .getPixelated4{
     font-size: 19px;
+}
+
+#AboutME {
+    text-align: right;
+    color: blue;
 }
